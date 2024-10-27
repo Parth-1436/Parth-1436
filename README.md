@@ -1,3 +1,4 @@
+![logo](https://github.com/Parth-1436/Parth-1436/blob/main/%2B917778972441.png)
 <h1 align="center">Hi 👋, I'm Parth Gosai</h1>
 <h3 align="center">A passionate Data Analyst Student from India</h3>
 
